@@ -18,7 +18,7 @@
        <repository>
          <id>internal.repo</id>
          <name>Internal repo</name>
-         <url>/ReleaseArtifacts/</url>
+         <url>file:///ReleaseArtifacts/</url>
        </repository>
    </distributionManagement>
 
